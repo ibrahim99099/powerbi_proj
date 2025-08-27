@@ -37,13 +37,10 @@ The dashboard is divided into multiple sections:
    - Major discipline insights  
 
 3. **Experience & Company Information**  
-   - Relevant vs Non-Relevant Experience  
-   - Years of experience distribution  
-   - Company size and company type analysis  
+   - Relevant vs Non-Relevant Experience    
 
 4. **Training Insights**  
    - Average training hours by gender  
-   - Training hours by city and education  
 
 ---
 
